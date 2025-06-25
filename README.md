@@ -23,13 +23,6 @@ Ce site simple présente des versets bibliques inspirants que j’apprécie part
 
 ---
 
-## 🖼️ Aperçu
-
-![Aperçu du site](chemin/vers/une-capture.png)
-*Exemple d'une citation affichée sur le site.*
-
----
-
 ## ▶️ Utilisation
 
 ### 💡 Méthode simple (localement)
@@ -39,20 +32,6 @@ Ce site simple présente des versets bibliques inspirants que j’apprécie part
    ```bash
    git clone https://github.com/NSJ25/citation-biblique.git
    ```
-2. Ouvrez le fichier `index.html` dans votre navigateur.
-
----
-
-## 📂 Structure du projet
-
-```
-citation-biblique/
-├── index.html        # Page principale avec les citations
-├── style.css         # Feuille de style pour l'apparence
-└── script.js         # Script JavaScript pour afficher les citations dynamiquement
-```
-
----
 
 ## 🧱 Ce que j’ai appris
 
@@ -75,8 +54,8 @@ citation-biblique/
 
 ## 📬 Contact
 
-**Auteur** : Jérémie NSENDA
-📧 Email : [jeremie.nsenda@email.com](mailto:jeremie.nsenda@email.com)
+**Auteur** : The Ghostwriter 25
+📧 Email : [jeremie.nsenda@email.com](mailto:theghostwriter25@email.com)
 🔗 [Mon profil GitHub](https://github.com/NSJ25)
 
 ---
